@@ -1,5 +1,6 @@
 # https-github.com-Ryx1Prime-Ryx1Prime
 https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZwdXhjNm9wdjhzamJvcnVzcGJzeWJ1bWxiZTcwNnBnenU5M2NzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif
+
 🌟 About Me
 
 Hey there! 👋 I'm a passionate beginner in tech and a Mathematics & Computer Science student at Ural Federal University (UrFU). I'm just starting my programming journey but already completely fascinated by how technology shapes our world!
